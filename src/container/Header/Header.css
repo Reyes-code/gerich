@@ -1,0 +1,21 @@
+.app__header{
+    background-color: var(--color-black);
+}   
+.app__header-h1{
+    font-family: var(--font-base);
+    color: var(--color-golden);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 50px;
+    font: size 90px;
+}
+.app__header-img img{
+    width: 80%; 
+}
+.p_cormorant{
+    color: var(--color-white);
+}
+.custom__img{
+    max-width: 70%;
+    max-height: 70%;
+}
